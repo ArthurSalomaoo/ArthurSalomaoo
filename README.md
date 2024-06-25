@@ -5,22 +5,23 @@
 Sou um desenvolvedor full stack apaixonado por tecnologia.
 
 - 🌱 Atualmente estou aprendendo **Node.js**
-- 👯 Estou procurando criando o **Meus Treinos** um projeto pessoal, estou desenvolvendo o projeto para adquirir e consolidar minhas experiências com Node.js e React.js
+- 👯 Estou criando o **Meus Treinos**, um projeto pessoal para adquirir e consolidar minhas experiências com Node.js e React.js
 - 📫 Como me encontrar: **arthursalomao.dev@gmail.com**
+
 ## 🛠️ Tecnologias e Ferramentas
 
 - **Linguagens de Programação:** JavaScript.
 - **Frameworks e Bibliotecas:** React.js, Node.js, Bootstrap.
-- **Ferramentas de Desenvolvimento:** VS Code, Git, Github.
+- **Ferramentas de Desenvolvimento:** VS Code, Git, GitHub.
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?ArthurSalomaoo&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?ArthurSalomaoo&layout=compact&theme=radical)
+![Estatísticas do GitHub de Arthur Salomão](https://github-readme-stats.vercel.app/api?username=ArthurSalomaoo&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSalomaoo&layout=compact&theme=radical)
 
 ## 📈 Contribuições
 
-![Gráfico de Contribuições](https://activity-graph.herokuapp.com/graph?ArthurSalomaoo&theme=radical)
+![Gráfico de Contribuições](https://activity-graph.herokuapp.com/graph?username=ArthurSalomaoo&theme=radical)
 
 ## 🌐 Vamos Conectar?
 
