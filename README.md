@@ -1,8 +1,5 @@
 # Olá, eu sou Arthur Salomão👋
 
-![GitHub followers](https://img.shields.io/github/followers/ArthurSalomaoo?label=Follow&style=social) 
-![GitHub stars](https://img.shields.io/github/stars/ArthurSalomaoo?affiliations=OWNER%2CCOLLABORATOR&style=social) 
-
 ## Sobre mim
 
 Sou um desenvolvedor full stack apaixonado por tecnologia.
@@ -12,9 +9,9 @@ Sou um desenvolvedor full stack apaixonado por tecnologia.
 - 📫 Como me encontrar: **arthursalomao.dev@gmail.com**
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens de Programação:** [Listar as linguagens que você conhece, ex: JavaScript, Python, Java, etc.]
-- **Frameworks e Bibliotecas:** [Listar os frameworks e bibliotecas que você utiliza, ex: React, Angular, Django, etc.]
-- **Ferramentas de Desenvolvimento:** [Listar as ferramentas, ex: Git, Docker, VS Code, etc.]
+- **Linguagens de Programação:** JavaScript.
+- **Frameworks e Bibliotecas:** React.js, Node.js, Bootstrap.
+- **Ferramentas de Desenvolvimento:** VS Code, Git, Github.
 
 ## 📊 Estatísticas do GitHub
 
@@ -27,9 +24,8 @@ Sou um desenvolvedor full stack apaixonado por tecnologia.
 
 ## 🌐 Vamos Conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/seu-usuario/)
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/seu-usuario)
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:seu-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/arthursalomao/)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:arthursalomao.dev@gmail.com)
 
 ## 📂 Projetos em Destaque
 
@@ -44,7 +40,3 @@ Sou um desenvolvedor full stack apaixonado por tecnologia.
 - [Post 2](https://link-para-o-post2) - Data do post
 - [Post 3](https://link-para-o-post3) - Data do post
 <!-- BLOG-POST-LIST:END -->
-
----
-
-⭐️ Inspirado por [Nome do usuário inspirador](https://github.com/usuario-inspirador)
