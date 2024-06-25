@@ -7,7 +7,6 @@ Sou um desenvolvedor full stack apaixonado por tecnologia.
 - 🌱 Atualmente estou aprendendo **Node.js**
 - 👯 Estou criando o **Meus Treinos**, um projeto pessoal para adquirir e consolidar minhas experiências com Node.js e React.js
 - 📫 Como me encontrar: **arthursalomao.dev@gmail.com**
-
 ## 🛠️ Tecnologias e Ferramentas
 
 - **Linguagens de Programação:** JavaScript.
@@ -16,12 +15,9 @@ Sou um desenvolvedor full stack apaixonado por tecnologia.
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub de Arthur Salomão](https://github-readme-stats.vercel.app/api?username=ArthurSalomaoo&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSalomaoo&layout=compact&theme=radical)
+![Estatísticas do GitHub de Arthur Salomão](https://github-readme-stats.vercel.app/api?username=ArthurSalomaoo&show_icons=true&theme=transparent&rank_icon=github)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=arthursalomaoo&hide_progress=true&theme=transparent )
 
-## 📈 Contribuições
-
-![Gráfico de Contribuições](https://activity-graph.herokuapp.com/graph?username=ArthurSalomaoo&theme=radical)
 
 ## 🌐 Vamos Conectar?
 
