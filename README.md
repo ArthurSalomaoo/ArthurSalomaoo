@@ -9,7 +9,7 @@ Sou um desenvolvedor full stack apaixonado por tecnologia.
 - 📫 Como me encontrar: **arthursalomao.dev@gmail.com**
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens de Programação:** TypeScript, JavaScript.
+- **Linguagens de Programação:** TypeScript, JavaScript, Python, Go
 - **Frameworks e Bibliotecas:** React.js, Node.js, Bootstrap.
 - **Ferramentas de Desenvolvimento:** VS Code, Git, GitHub.
 
